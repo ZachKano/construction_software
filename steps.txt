@@ -1,0 +1,6 @@
+FRONT END
+1. install angular cli
+
+
+BACKEND
+1. spring boot initializer
